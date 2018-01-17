@@ -1,2 +1,2 @@
-# webstersCabinets
-New website for a local cabinet company
+## Websters Cabinets
+New website for a local cabinet company.
