@@ -13,8 +13,17 @@ body {
 }
 
 p {
+	font-family: 'Libre Baskerville', serif;
 	font-size: .95em;
 	margin-bottom: 1.5em;
+}
+
+title {
+	font-family: 'BioRhyme Expanded', serif;
+}
+
+h1 {
+	font-family: 'Libre Baskerville', serif;
 }
 
 h2,
